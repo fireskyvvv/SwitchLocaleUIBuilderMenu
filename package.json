@@ -1,0 +1,13 @@
+{
+  "name": "com.katen.switch-locale-ui-builder-menu",
+  "displayName": "SwitchLocaleUIBuilderMenu",
+  "version": "0.1.0",
+  "unity": "6000.0",
+  "description": "Create a menu on the UIBuilder to switch the current Locale.",
+  "author": {
+    "name": "katen"
+  },
+  "dependencies": {
+    "com.unity.localization": "1.5.4"
+  }
+}
