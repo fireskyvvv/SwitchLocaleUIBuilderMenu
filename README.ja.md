@@ -14,6 +14,8 @@
 
 ## Demo
 
+![Demo](https://github.com/user-attachments/assets/7163c280-dc46-4429-924d-1bee97245c35)
+
 ## Installation
 
 Package Manager で以下の2つのURLを追加してください

@@ -12,6 +12,8 @@ This Editor extension depends on the following Package
 
 ## Demo
 
+![Demo](https://github.com/user-attachments/assets/7163c280-dc46-4429-924d-1bee97245c35)
+
 ## Installation
 
 Add the following two URLs in Package Manager
