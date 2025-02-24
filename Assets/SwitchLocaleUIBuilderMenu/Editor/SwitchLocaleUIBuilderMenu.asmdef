@@ -1,0 +1,19 @@
+{
+    "name": "SwitchLocaleUIBuilderMenu",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7c175cb1d7941604da59160fea41bf3d",
+        "GUID:eec0964c48f6f4e40bc3ec2257ccf8c5"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
